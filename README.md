@@ -11,7 +11,7 @@ To automatically generate a concise and accurate summary that captures the essen
 # IDEOLOGY :
 The ability that a video can be automatically transcribed and summarized into multiple languages, making it accessible to a wider people without the need for human translation.
 
-# OUICK START
+# QUICK START
 1. Create a new python environment and download the packages using the command -> pip install -r requirements.txt
 2. Change the path according to your system in config.env file
 3. Download the trained models using the following link -> https://drive.google.com/drive/folders/1ILkjBk_gzSJVHeYlrIJ8aW8Pv84bg7Ny?usp=drive_link
