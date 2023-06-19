@@ -25,14 +25,14 @@ def summary_bart_v1(text,file_path,output_path):
     return summary_v1
 
 
-# def summary_bart_v2(text,file_path):
+# def summary_bart_v2(text,output_path):
 #     print("\nText Summarizing...")
     
 #     summarization = pipeline('summarization',model="facebook/bart-large-cnn")
 #     summarized_text = summarization(text)
 
 #     summary_v2 = (summarized_text[0]['summary_text'])
-#     print(eval_scores(text,summary_v2,f"E:/1.SEM 8/nlp lab/nlp project-colab/models/"))
-#     # text_file_convert(summary_v2, "summary_bart_v2", file_path)
+#     print(eval_scores(text,summary_v2,output_path))
+#     # text_file_convert(summary_v2, "summary_bart_v2", output_path)
 
 #     return summary_v2
