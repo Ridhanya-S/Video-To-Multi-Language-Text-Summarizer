@@ -1,0 +1,8 @@
+# pip uninstall pytube
+
+// For streamingData Error
+python -m pip install git+https://github.com/pytube/pytube
+python -m pip install --upgrade pytube
+pip install pytube3
+
+# python -m pip install git+https://github.com/Zeecka/pytube@fix_1060
